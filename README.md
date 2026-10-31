@@ -5,7 +5,7 @@ Autor: Samuel Felipe Losada Rojas · Profesor: Camilo Morales Vargas
 
 - **Sitio publicado:** https://samuellosadaro-cmyk.github.io/ecomonitor-tailwind/
 - **Repositorio:** https://github.com/samuellosadaro-cmyk/ecomonitor-tailwind
-- **Video:** [pendiente: enlace de YouTube]
+- **Video:** https://youtu.be/qmKidFNkGh4
 
 ## Temática
 Landing page del Sistema Web para el Monitoreo y Análisis de Consumo Energético en el Sector Industrial, dirigida a gerentes y jefes de mantenimiento de empresas industriales en Colombia. Objetivo: que soliciten una demostración.
