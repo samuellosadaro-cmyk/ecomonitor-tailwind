@@ -3,7 +3,8 @@
 Trabajo individual del Seminario en Gestión de Software Ágil Asistido por Inteligencia Artificial (FET).
 Autor: Samuel Felipe Losada Rojas · Profesor: Camilo Morales Vargas
 
-- **Sitio publicado:** [pendiente: enlace de GitHub Pages]
+- **Sitio publicado:** https://samuellosadaro-cmyk.github.io/ecomonitor-tailwind/
+- **Repositorio:** https://github.com/samuellosadaro-cmyk/ecomonitor-tailwind
 - **Video:** [pendiente: enlace de YouTube]
 
 ## Temática
